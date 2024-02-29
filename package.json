@@ -1,5 +1,4 @@
 {
-  "homepage": "./dist/index.html",
   "name": "lp-tortelli-twind-react-vite",
   "private": true,
   "version": "0.0.0",
